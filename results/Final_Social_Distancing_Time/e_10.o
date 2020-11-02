@@ -1,0 +1,44 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2020 The MathWorks, Inc.
+                  R2020a (9.8.0.1323502) 64-bit (glnxa64)
+                             February 25, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+
+********************************************>> 
+England - Hetsus
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Last Error in function barrier, line 0, file /home1/apps/matlab/2020a/toolbox/optim/optim/barrier.p.
+>> >> >> >> 
+MCMC
+>> >> >> >> >> >> >> >> -> Sampling FINISHED.
+>> >> -> Calculation of confidence intervals for parameters FINISHED.
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+Final_results = 
+
+  struct with fields:
+
+    country: 'England'
+      model: 'Hetsus'
+       LogL: 1.7975e+06
+          d: [0.5729 0.5741 0.5755]
+          p: [0.4271 0.4259 0.4245]
+    inidist: [46.6854 46.7271 46.8236]
+       R0_1: [2.8152 2.8219 2.8261]
+       R0_2: []
+       R0_3: []
+       R0_4: []
+       CV_1: [2.2296 2.2337 2.2379]
+       CV_2: []
+       CV_3: []
+       CV_4: []
+      lag_1: 32
+      lag_2: []
+      lag_3: []
+      lag_4: []
+
+>> >> >> >> >> >> >> 

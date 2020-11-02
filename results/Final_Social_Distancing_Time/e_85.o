@@ -1,0 +1,43 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2020 The MathWorks, Inc.
+                  R2020a (9.8.0.1323502) 64-bit (glnxa64)
+                             February 25, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+
+********************************************>> 
+England - Hetsus
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+MCMC
+>> >> >> >> >> >> >> >> -> Sampling FINISHED.
+>> >> -> Calculation of confidence intervals for parameters FINISHED.
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+Final_results = 
+
+  struct with fields:
+
+    country: 'England'
+      model: 'Hetsus'
+       LogL: 1.8070e+06
+          d: [0.4700 0.4717 0.4728]
+          p: [0.5300 0.5283 0.5272]
+    inidist: [41.8091 42.0783 42.2729]
+       R0_1: [3.1468 3.1588 3.1824]
+       R0_2: []
+       R0_3: []
+       R0_4: []
+       CV_1: [1.9158 1.9230 1.9341]
+       CV_2: []
+       CV_3: []
+       CV_4: []
+      lag_1: 32
+      lag_2: []
+      lag_3: []
+      lag_4: []
+
+>> >> >> >> >> >> >> 

@@ -1,0 +1,53 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2020 The MathWorks, Inc.
+                  R2020a (9.8.0.1323502) 64-bit (glnxa64)
+                             February 25, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> [Warning: Column headers from the file were modified to make them valid MATLAB
+identifiers before creating variable names for the table. The original column
+headers are saved in the VariableDescriptions property.
+Set 'PreserveVariableNames' to true to use the original column headers as table
+variable names.] 
+[Warning: Column headers from the file were modified to make them valid MATLAB
+identifiers before creating variable names for the table. The original column
+headers are saved in the VariableDescriptions property.
+Set 'PreserveVariableNames' to true to use the original column headers as table
+variable names.] 
+>> >> >> >> >> >> 
+
+********************************************>> 
+Spain - Hetsus
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+MCMC
+>> >> >> >> >> >> >> >> -> Sampling FINISHED.
+>> >> -> Calculation of confidence intervals for parameters FINISHED.
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+Final_results = 
+
+  struct with fields:
+
+    country: 'Spain'
+      model: 'Hetsus'
+       LogL: 1.7928e+06
+          d: [0.4146 0.4165 0.4186]
+          p: [0.5854 0.5835 0.5814]
+    inidist: [16.0163 16.1710 16.3102]
+       R0_1: [4.0511 4.0655 4.0809]
+       R0_2: []
+       R0_3: []
+       R0_4: []
+       CV_1: [3.4712 3.4840 3.4984]
+       CV_2: []
+       CV_3: []
+       CV_4: []
+      lag_1: 8
+      lag_2: []
+      lag_3: []
+      lag_4: []
+
+>> >> >> >> >> >> >> 
