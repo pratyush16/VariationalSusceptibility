@@ -1,4 +1,4 @@
-# Sensitivity Analyses of Variational Susceptibility COVID mMdel
+# Sensitivity Analyses of Variational Susceptibility COVID Model
 
 This repository consists of the data and results obtained from modifying the code by Aguas et al. from the paper [Herd immunity thresholds for SARS-CoV-2 estimated from unfolding epidemics](https://www.medrxiv.org/content/10.1101/2020.07.23.20160762v2.full.pdf) 
  
